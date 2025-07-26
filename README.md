@@ -14,8 +14,6 @@ Here's what I built:
 - Used **Flutter widgets**, custom styling, and proper structuring to ensure reusability and scalability.
 - Coordinated with team members to align UI with backend functionality.
 
-I did **not** work on backend logic or database integration — those were handled by other team members.
-
 ---
 
 ## 🛠 Tech Stack (Frontend Only)
